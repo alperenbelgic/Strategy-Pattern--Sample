@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeslaCarApplicationLibrary", "StrategyPattern\TeslaCarApplicationLibrary.csproj", "{54E485D5-0278-4114-A09D-15E70A1A39B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarClient", "CarClient\CarClient.csproj", "{923F5EE3-E0E5-44E8-8E52-B69CEB993EB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54E485D5-0278-4114-A09D-15E70A1A39B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54E485D5-0278-4114-A09D-15E70A1A39B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54E485D5-0278-4114-A09D-15E70A1A39B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54E485D5-0278-4114-A09D-15E70A1A39B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{923F5EE3-E0E5-44E8-8E52-B69CEB993EB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{923F5EE3-E0E5-44E8-8E52-B69CEB993EB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{923F5EE3-E0E5-44E8-8E52-B69CEB993EB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{923F5EE3-E0E5-44E8-8E52-B69CEB993EB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
