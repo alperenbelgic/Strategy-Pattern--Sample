@@ -11,7 +11,7 @@ namespace TeslaCarApplicationLibrary.SteeringWheels
         public void Steer()
         {
             Console.WriteLine("Steer: Steered hard!");
-        } 
+        }  
     }
 }
  
